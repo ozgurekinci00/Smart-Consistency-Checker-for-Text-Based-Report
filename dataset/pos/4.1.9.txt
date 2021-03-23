@@ -1,0 +1,2 @@
+Ölçüt 4.1’e göre kurulan ölçme ve değerlendirme sistemlerinden elde edilen sonuçların programın sürekli iyileştirilmesine yönelik olarak kullanıldığına ilişkin kanıtlar sunulmalıdır.
+Programın sürekli iyileştirilmesine yönelik kurulan bir ölçme ve değerlendirme sistemi bulunmasına rağmen bu sistemden elde edilen sonuçların programın sürekli iyileştirilmesi için kullanıldığına ilişkin kanıtlar görülmemiştir. Bu nedenle, Ölçüt 4.1 ile ilgili _ bildirimi yapılmıştır.

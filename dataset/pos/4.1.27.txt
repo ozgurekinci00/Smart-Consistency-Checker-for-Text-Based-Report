@@ -1,0 +1,3 @@
+Ölçüt 4.1’e göre, kurulan ölçme ve değerlendirme sistemlerinden elde edilen sonuçların programın sürekli iyileştirilmesine yönelik olarak kullanıldığına ilişkin kanıtlar sunulmalıdır.
+
+Programda birden fazla ders planı değişikliği, ders içeriği değişikliği gibi gelişme amaçlı iyileştirme çabaları olduğu görülmektedir. Ancak bu çalışmaların, ölçme ve değerlendirme sisteminden elde edilen sonuçlara dayandığını gösteren kanıtların bulunmadığı saptanmıştır. Bu nedenle, Ölçüt 4.1 ile ilgili _ bildirimi yapılmıştır. 

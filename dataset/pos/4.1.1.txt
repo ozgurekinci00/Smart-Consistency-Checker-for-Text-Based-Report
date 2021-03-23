@@ -1,0 +1,2 @@
+Ölçüt 4.1’e göre, kurulan ölçme ve değerlendirme sistemlerinden elde edilen sonuçların programın sürekli iyileştirilmesine yönelik olarak kullanıldığına ilişkin kanıtlar sunulmalıdır. 
+Programda öğrencilerin notları ve anketlere dayanan bir ölçme ve değerlendirme sistemi kurulmuş olmakla birlikte bu sistemden elde edilen sonuçların sürekli iyileştirme için kullanılması yönünde bir çalışma bulunmamaktadır. Bu nedenle Ölçüt 4.1 ile ilgili _ değerlendirmesi yapılmıştır.

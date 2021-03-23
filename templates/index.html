@@ -1,0 +1,29 @@
+<style>
+	.container {
+		text-align: center;
+	}
+	.header{
+		text-align: center;
+	}
+
+</style>
+
+
+{% extends "base.html" %}
+{% block title %}Home Page{% endblock %}
+
+{% block content %}
+<h1 class="header">Response Predictor</h1>
+<form action="/predict" method="POST">
+	<div class="container">
+	<textarea name="olcut" rows="20" cols="70"></textarea>
+	<br>
+	<p>Select decided response</p>
+    <label for="kaygı"><input id="kaygı" value="kaygı" type="radio" name="karar">Kaygı</label>
+    <label for="zayıflık"><input id="zayıflık" value="zayıflık" type="radio" name="karar">Zayıflık</label>
+    <label for="none"><input id="none" value="none" type="radio" name="karar">None</label>
+    <br>
+    <input style="background-color: #EAA7A0" type="submit" value="Predict">
+    </div>
+</form>
+{% endblock %}

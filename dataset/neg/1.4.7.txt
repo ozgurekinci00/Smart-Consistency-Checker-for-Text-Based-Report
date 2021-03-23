@@ -1,0 +1,2 @@
+Ölçüt 1.4'e göre, öğrencileri ders ve kariyer planlaması konularında yönlendirecek danışmanlık hizmeti verilmelidir.
+Bilgisayar Mühendisliği öğretim kadrosu hem kendi programında görev almakta, hem de Yazılım Mühendisliği programı ve Bilişim Sistemleri Mühendisliği programı gibi iki ayrı programın yürütülmesine katkı vermektedirler ve iş yüklerinin giderek artacağı görülmektedir. Bu yük, diğer faaliyetlerini ve özellikle danışmanlık hizmetini aksatabilecektir. Bu nedenle Ölçüt 1.4 için _ bildirimi yapılmıştır.

@@ -1,0 +1,52 @@
+<style>
+
+.container{
+	margin-top: 100px;
+	text-align: center;
+}
+
+
+
+</style>
+
+
+{% extends "base.html" %}
+{% block title %}Predict{% endblock %}
+
+{% block content %}
+
+{% if karar == "none" %}
+
+<div class="container">
+	
+	<h3>Predicted response for this paragraph: </h3>
+	<h3 style="color: #EAA7A0;">{{prediction}}</h3>
+
+</div>
+
+
+{% else %}
+{% if karar != prediction %}
+<div class="container">
+	<h2>Inconsistency Found!</h2>
+	<br>
+	<h3>Prediction: {{prediction}}</h3>
+	<br>
+	<h3>Response: {{karar}}</h3>
+	<br>
+	<h5 style="color: #EAA7A0">You may want to review your response</h5>
+
+</div>
+{% else %}
+<div class="container">
+	<h3>Prediction matched with response!</h3>
+	<br>
+	<h3 style="color: #EAA7A0">{{prediction}}</h3>
+</div>
+
+{% endif %}
+
+{% endif %}
+
+
+{% endblock %}

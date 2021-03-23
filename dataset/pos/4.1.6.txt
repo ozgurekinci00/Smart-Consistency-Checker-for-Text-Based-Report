@@ -1,0 +1,2 @@
+Ölçüt 4.1’e göre, kurulan ölçme ve değerlendirme sistemlerinden elde edilen sonuçların programın sürekli iyileştirilmesine yönelik olarak kullanıldığına ilişkin kanıtlar sunulmalıdır.
+Sürekli iyileştirme bağlamında ilgili komisyonların kurulduğu görülmüştür; ancak komisyon görev tanımları yapılmamış ve birbirleriyle ilişkileri açık olarak kurgulanmamıştır.  Ayrıca kurulan ölçme ve değerlendirme sisteminden elde edilen verilerin sürekli iyileştirme bağlamında kullanıldığına ilişkin kanıt görülemediği için Ölçüt 4.1  ile ilgili olarak _ bildirimi yapılmıştır. 
