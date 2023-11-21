@@ -1,0 +1,2 @@
+Ölçüt 4.2’e göre, iyileştirme çalışmaları, başta Ölçüt 2 ve Ölçüt 3 ile ilgili alanlar olmak üzere, programın gelişmeye açık tüm alanları ile ilgili, sistematik bir biçimde toplanmış, somut verilere dayalı olmalıdır.
+İyileştirme çalışmalarının, sistematik bir biçimde toplanmış ve somut verilere dayalı olduğuna ilişkin kanıt bulunmadığından, Ölçüt 4.2 ile ilgili _ bildirimi yapılmıştır.
